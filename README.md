@@ -1,2 +1,2 @@
-# Beginner
-Barely starting programming at all, trying new stuff like right now with github and a little knowledge on c++
+# Hello, GitHub!
+This is my first project. I am learning how to use GitHub step by step.
